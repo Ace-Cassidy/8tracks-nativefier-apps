@@ -1,0 +1,1 @@
+nativefier --name "8Tracks" --platform windows --icon ./favicon.ico --maximize --hide-window-frame --disable-context-menu --disable-dev-tools --single-instance "https://8tracks.com/"
