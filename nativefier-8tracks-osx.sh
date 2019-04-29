@@ -1,1 +1,1 @@
-nativefier --name "8Tracks" --platform osx --icon ./favicon.icns --maximize --hide-window-frame --disable-context-menu --disable-dev-tools --single-instance "https://8tracks.com/"
+nativefier --name "8Tracks" --platform osx --icon ./favicon.icns --maximize --disable-context-menu --disable-dev-tools --single-instance "https://8tracks.com/"

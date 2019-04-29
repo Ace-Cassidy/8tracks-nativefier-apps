@@ -1,1 +1,1 @@
-nativefier --name "8Tracks" --platform linux --icon ./favicon.png --maximize --hide-window-frame --disable-context-menu --disable-dev-tools --single-instance "https://8tracks.com/"
+nativefier --name "8Tracks" --platform linux --icon ./favicon.png --maximize --disable-context-menu --disable-dev-tools --single-instance "https://8tracks.com/"
